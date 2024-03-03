@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL](https://sriram23.github.io/Social-Link-Profile-Frontend-Mentor/)
+- Live Site URL: [Live site URL](https://social-links-profile-hatemhenchir.vercel.app/)
 
 ## My process
 
